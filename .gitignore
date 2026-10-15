@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+results/
+data/niah.json
+data/regenerated/
